@@ -14,6 +14,8 @@
   - **Working on a fork** - A 3D printer firmware written in C++
     https://marlinfw.org
   - **Active discussion** - Vite
+### A few projects I've contributed to...
+  [@vitejs/vite](https://github.com/vitejs/vite), [@11ty/eleventy](https://github.com/11ty/eleventy), [@Ultimaker/Cura](https://github.com/Ultimaker/Cura), [@getsentry/sentry](https://github.com/getsentry/sentry), [@cliqz-oss/adblocker](https://github.com/cliqz-oss/adblocker), [@cncjs/cncjs](https://github.com/cncjs/cncjs), [@tc39](https://github.com/tc39/), [@whatwg/html](https://github.com/whatwg/html), [@vuejs/vue-cli](https://github.com/vuejs/vue-cli), [@vuejs/vue](https://github.com/vuejs/vue)
 
 ### ⚡ Fun facts: 
   - <a href="https://stackexchange.com/users/903303">
