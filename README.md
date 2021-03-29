@@ -27,3 +27,10 @@
   - Reported a redering bug in WebKit (iOS12) [#197613](https://bug-197613-attachments.webkit.org/attachment.cgi?id=369123)
   - Participated in [TC39](https://github.com/tc39) discussions and proposals about the future of Javascript
   - Participated in [WHATWG](https://participate.whatwg.org) discussions and proposals about the future of the web
+
+----
+
+Thanks to everyone who supported through 
+<a href="https://www.buymeacoffee.com/vitim" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="24" >
+</a> !
