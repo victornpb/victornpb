@@ -22,7 +22,7 @@
      <img src="https://stackexchange.com/users/flair/903303.png?theme=dark" width="208" height="58" alt="profile for Vitim.us on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vitim.us on Stack Exchange, a network of free, community-driven Q&amp;A sites"><br>
     </a>  
   - Reached the Top 1% rank on Stackoverflow (currently at Top 2%)
-  - Pottentially helped ~16 million developers (according to Stackoverflow stats) 
+  - Potentially helped ~16 million developers (according to Stackoverflow stats) 
   - My most popular project currently is a Discord userscript/extension with 1.8K stars and 380 forks
   - Reported a redering bug in WebKit (iOS12) [#197613](https://bug-197613-attachments.webkit.org/attachment.cgi?id=369123)
   - Participated in [TC39](https://github.com/tc39) discussions and proposals about the future of Javascript
@@ -30,7 +30,7 @@
 
 ----
 
-Thanks to everyone who supported through 
+Thanks to everyone who supported me through 
 <a href="https://www.buymeacoffee.com/vitim" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="24" >
 </a> !
