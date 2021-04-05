@@ -10,7 +10,7 @@
 ### 🌱 I’m currently learning 
   - Unity / GameDev
   - C#
-### 🤝 I’m looking to contribute on...
+### 🤝 I’m looking to contribute to...
   - **Working on a fork** - A 3D printer firmware written in C++
     https://marlinfw.org
   - **Active discussion** - Vite
