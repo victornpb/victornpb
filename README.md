@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
 ### 🔭 I’m currently working on ...
-  - Assets loader for Eleventy plugin  
-    https://github.com/victornpb/eleventy-plugin-page-assets
-  - Performance profiler / Visualizer for Postgres explains  
-    https://github.com/victornpb/explainalizer
   - Keyboardly, drop in library for making Apps keyboard friendly  
     https://github.com/victornpb/keyboardly (no readme yet)
+  - Performance profiler / Visualizer for Postgres explains  
+    https://github.com/victornpb/explainalizer
+  - Assets loader for Eleventy plugin  
+    https://github.com/victornpb/eleventy-plugin-page-assets
 ### 🌱 I’m currently learning 
   - Unity / GameDev
   - C#
