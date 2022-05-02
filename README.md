@@ -23,14 +23,15 @@
     </a>  
   - Reached the Top 1% rank on Stackoverflow (currently at Top 2%)
   - Potentially helped ~16 million developers (according to Stackoverflow stats) 
-  - My most popular project currently is a Discord userscript/extension with 1.8K stars and 380 forks
+  - My most popular project currently is [Undiscord](https://github.com/victornpb/undiscord) with [![GitHub Stars](https://img.shields.io/github/stars/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/stargazers) and 
+[![GitHub Forks](https://img.shields.io/github/forks/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/network/members)
   - Reported a redering bug in WebKit (iOS12) [#197613](https://bug-197613-attachments.webkit.org/attachment.cgi?id=369123)
   - Participated in [TC39](https://github.com/tc39) discussions and proposals about the future of Javascript
   - Participated in [WHATWG](https://participate.whatwg.org) discussions and proposals about the future of the web
 
 ----
 
-Thanks to everyone who supported me through 
-<a href="https://www.buymeacoffee.com/vitim" target="_blank" rel="noreferrer nofollow">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="24" >
-</a> !
+> ❤️ Thanks to everyone who supported me through 
+    <a href="https://www.buymeacoffee.com/vitim" target="_blank" rel="noreferrer nofollow">
+      <img src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.png" alt="Buy Me A Coffee" height="16" > Buy Me A Coffee
+    </a>
