@@ -18,6 +18,6 @@ jobs:
           readme-section: feed
           empty-commits: false
           max: 5
-          template: "- [{{ title }}]({{ link }})  \n  {{ excerpt }}"
+          template: "- [{{ title }}]({{ link }})  \n  {{ description }}"
           path: README.md
           
