@@ -29,6 +29,11 @@
   - Participated in [TC39](https://github.com/tc39) discussions and proposals about the future of Javascript
   - Participated in [WHATWG](https://participate.whatwg.org) discussions and proposals about the future of the web
 
+### Latest posts: 
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 ----
 
 > ❤️ Thanks to everyone who supported me through 
