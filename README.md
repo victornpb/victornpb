@@ -31,11 +31,16 @@
 
 ### Latest posts: 
 <!--START_SECTION:feed-->
-* [Javascript is getting a new keyword I proposed (accessor)](https:&#x2F;&#x2F;www.vitim.us&#x2F;javascript-is-getting-a-new-keyword-i-proposed-accessor&#x2F;))
-* [Notion JAM](https:&#x2F;&#x2F;www.vitim.us&#x2F;notion-jam&#x2F;))
-* [default-args](https:&#x2F;&#x2F;www.vitim.us&#x2F;default-args&#x2F;))
-* [explainalizer](https:&#x2F;&#x2F;www.vitim.us&#x2F;explainalizer&#x2F;))
-* [rollup-plugin-baked-env](https:&#x2F;&#x2F;www.vitim.us&#x2F;rollup-plugin-baked-env&#x2F;))
+- [Javascript is getting a new keyword I proposed (accessor)](https:&#x2F;&#x2F;www.vitim.us&#x2F;javascript-is-getting-a-new-keyword-i-proposed-accessor&#x2F;)  
+  
+- [Notion JAM](https:&#x2F;&#x2F;www.vitim.us&#x2F;notion-jam&#x2F;)  
+  
+- [default-args](https:&#x2F;&#x2F;www.vitim.us&#x2F;default-args&#x2F;)  
+  
+- [explainalizer](https:&#x2F;&#x2F;www.vitim.us&#x2F;explainalizer&#x2F;)  
+  
+- [rollup-plugin-baked-env](https:&#x2F;&#x2F;www.vitim.us&#x2F;rollup-plugin-baked-env&#x2F;)  
+  
 <!--END_SECTION:feed-->
 
 ----
