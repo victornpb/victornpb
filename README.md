@@ -41,6 +41,10 @@
   
 - [rollup-plugin-baked-env](https:&#x2F;&#x2F;www.vitim.us&#x2F;rollup-plugin-baked-env&#x2F;)  
   
+- [WeakMatrix](https:&#x2F;&#x2F;www.vitim.us&#x2F;weak-matrix&#x2F;)  
+  
+- [vue-contextify](https:&#x2F;&#x2F;www.vitim.us&#x2F;vue-contextify&#x2F;)  
+  
 <!--END_SECTION:feed-->
 
 ----
