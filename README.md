@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
 ### 🔭 I’m currently working on ...
-  - Keyboardly, drop in library for making Apps keyboard friendly  
-    https://github.com/victornpb/keyboardly (no readme yet)
-  - Performance profiler / Visualizer for Postgres explains  
+  - [Keyboardly](https://victornpb.github.io/keyboardly/), a drop in library for making Apps keyboard friendly  
+    https://victornpb.github.io/keyboardly
+  - [Explainalizer](https://github.com/victornpb/explainalizer) Performance profiler / Visualizer for Postgres explains  
     https://github.com/victornpb/explainalizer
   - Assets loader for Eleventy plugin  
     https://github.com/victornpb/eleventy-plugin-page-assets
