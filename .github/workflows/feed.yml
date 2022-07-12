@@ -14,10 +14,10 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://www.vitim.us/feed.xml
+          feed-url: https://www.vitim.us/feed.json
           readme-section: feed
           empty-commits: false
           max: 7
-          template: "- [{{ title }}]({{ link }})  \n  {{ excerpt }}"
+          template: "- [{{ title }}]({{ url }})  \n  {{ summary }}"
           path: README.md
           
