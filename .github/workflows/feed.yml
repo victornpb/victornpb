@@ -17,7 +17,7 @@ jobs:
           feed-url: https://www.vitim.us/feed.xml
           readme-section: feed
           empty-commits: false
-          max: 5
-          template: "- [{{ title }}]({{ link }})  \n  {{ description }}"
+          max: 7
+          template: "- [{{ title }}]({{ link }})  \n  {{ excerpt }}"
           path: README.md
           
