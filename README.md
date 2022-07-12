@@ -5,7 +5,7 @@
     https://victornpb.github.io/keyboardly
   - [Explainalizer](https://github.com/victornpb/explainalizer) Performance profiler / Visualizer for Postgres explains  
     https://github.com/victornpb/explainalizer
-  - Assets loader for Eleventy plugin  
+  - Assets loader plugin for Eleventy  
     https://github.com/victornpb/eleventy-plugin-page-assets
 ### 🌱 I’m currently learning 
   - Unity / GameDev
@@ -29,7 +29,7 @@
   - Participated in [TC39](https://github.com/tc39) discussions and proposals about the future of Javascript
   - Participated in [WHATWG](https://participate.whatwg.org) discussions and proposals about the future of the web
 
-### Latest posts: 
+### 📝 Latest posts: 
 <!--START_SECTION:feed-->
 - [Javascript is getting a new keyword I proposed (accessor)](https:&#x2F;&#x2F;www.vitim.us&#x2F;javascript-is-getting-a-new-keyword-i-proposed-accessor&#x2F;)  
   
