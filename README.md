@@ -49,7 +49,9 @@
 
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><table><tr><td>-</td><td><a href="https://www.vitim.us/javascript-is-getting-a-new-keyword-i-proposed-accessor/">Javascript is getting a new keyword I proposed (accessor)</a> | Jun 2, 2022 <br> A story about how I proposed a name for a new Javascript keyword, and it was accepted.... </td></tr></table>
+<table><tr><td>-</td><td><a href="https://www.vitim.us/notion-jam/">Notion JAM</a> | May 15, 2022 <br> Sync pages from Notion to GitHub to be used as a static website CMS (JAM)... </td></tr></table>
+<table><tr><td>-</td><td><a href="https://www.vitim.us/default-args/">default-args</a> | May 14, 2022 <br> A simple library for providing defaults to an options argument. No dependencies, tiny amount of code.... </td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ----
