@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -16,11 +16,11 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://www.vitim.us/feed.xml
-          max_post_count: 3
+          max_post_count: 5
           commit_message: "Updated README with the latest blog posts"
           date_format: "mmm d, yyyy"
 #           custom_tags: "postImage/image/"
           disable_html_encoding: true
 #           item_exec: |
 #             post.description = post.description.replace(/<\/?[^>]+(>|$)/g, "").slice(0,100)
-          template: '<table><tr><td>-</td><td><a href="$url">$title</a> | $date <br> $description... </td></tr></table>$newline'
+          template: '<table><tr><td>-</td><td><a href="$url">$title</a> <br> $description... </td></tr></table>$newline'
