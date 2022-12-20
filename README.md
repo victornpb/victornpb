@@ -18,37 +18,23 @@
   [@vitejs/vite](https://github.com/vitejs/vite), [@11ty/eleventy](https://github.com/11ty/eleventy), [@Ultimaker/Cura](https://github.com/Ultimaker/Cura), [@getsentry/sentry](https://github.com/getsentry/sentry), [@cliqz-oss/adblocker](https://github.com/cliqz-oss/adblocker), [@cncjs/cncjs](https://github.com/cncjs/cncjs), [@tc39](https://github.com/tc39/), [@whatwg/html](https://github.com/whatwg/html), [@vuejs/vue-cli](https://github.com/vuejs/vue-cli), [@vuejs/vue](https://github.com/vuejs/vue)
 
 ### ⚡ Fun facts: 
-  - <a href="https://stackexchange.com/users/903303">
+  - <a href="https://stackoverflow.com/users/938822/vitim-us">
      <img src="https://stackexchange.com/users/flair/903303.png?theme=dark" width="208" height="58" alt="profile for Vitim.us on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vitim.us on Stack Exchange, a network of free, community-driven Q&amp;A sites"><br>
     </a>  
   - Reached the Top 1% rank on Stackoverflow (currently at Top 2%)
-  - Potentially helped ~16 million developers (according to Stackoverflow stats) 
+  - Potentially helped 20.5 million developers (according to Stackoverflow stats) 
   - My most popular project currently is [Undiscord](https://github.com/victornpb/undiscord) with [![GitHub Stars](https://img.shields.io/github/stars/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/stargazers) and 
 [![GitHub Forks](https://img.shields.io/github/forks/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/network/members)
   - Reported a redering bug in WebKit (iOS12) [#197613](https://bug-197613-attachments.webkit.org/attachment.cgi?id=369123)
   - Participated in [TC39](https://github.com/tc39) discussions and proposals about the future of Javascript
   - Participated in [WHATWG](https://participate.whatwg.org) discussions and proposals about the future of the web
 
-### 📝 Latest posts: 
-<!--START_SECTION:feed-->
-- [Javascript is getting a new keyword I proposed (accessor)](https:&#x2F;&#x2F;www.vitim.us&#x2F;javascript-is-getting-a-new-keyword-i-proposed-accessor&#x2F;)  
-  
-- [Notion JAM](https:&#x2F;&#x2F;www.vitim.us&#x2F;notion-jam&#x2F;)  
-  
-- [default-args](https:&#x2F;&#x2F;www.vitim.us&#x2F;default-args&#x2F;)  
-  
-- [explainalizer](https:&#x2F;&#x2F;www.vitim.us&#x2F;explainalizer&#x2F;)  
-  
-- [rollup-plugin-baked-env](https:&#x2F;&#x2F;www.vitim.us&#x2F;rollup-plugin-baked-env&#x2F;)  
-  
-- [WeakMatrix](https:&#x2F;&#x2F;www.vitim.us&#x2F;weak-matrix&#x2F;)  
-  
-- [vue-contextify](https:&#x2F;&#x2F;www.vitim.us&#x2F;vue-contextify&#x2F;)  
-  
+
+## 📝 [Latest blog posts](https://www.vitim.us/?utm_source=github_profile)
+
+<!--START_SECTION:feed-->  
 <!--END_SECTION:feed-->
 
-
-# Blog posts
 <!-- BLOG-POST-LIST:START --><table><tr><td>-</td><td><a href="https://www.vitim.us/javascript-is-getting-a-new-keyword-i-proposed-accessor/">Javascript is getting a new keyword I proposed (accessor)</a> | Jun 2, 2022 <br> A story about how I proposed a name for a new Javascript keyword, and it was accepted.... </td></tr></table>
 <table><tr><td>-</td><td><a href="https://www.vitim.us/notion-jam/">Notion JAM</a> | May 15, 2022 <br> Sync pages from Notion to GitHub to be used as a static website CMS (JAM)... </td></tr></table>
 <table><tr><td>-</td><td><a href="https://www.vitim.us/default-args/">default-args</a> | May 14, 2022 <br> A simple library for providing defaults to an options argument. No dependencies, tiny amount of code.... </td></tr></table>
