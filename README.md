@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-### 🔭 I’m currently working on ...
+### 🧑🏻‍💻 I’m currently working on ...
   - [Keyboardly](https://victornpb.github.io/keyboardly/), a drop in library for making Apps keyboard friendly  
     https://victornpb.github.io/keyboardly
   - [Explainalizer](https://github.com/victornpb/explainalizer) Performance profiler / Visualizer for Postgres explains  
