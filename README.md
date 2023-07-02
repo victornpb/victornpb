@@ -38,8 +38,8 @@
 <!-- BLOG-POST-LIST:START --><table><tr><td>-</td><td><a href="https://www.vitim.us/dependency-injection-a-challenge-to-conventional-thinking/">Dependency Injection: A Challenge to Conventional Thinking</a> <br> A critical evaluation of the dependency injection pattern, exploring its origins in object-oriented programming and advocating for careful consideration of its benefits and drawbacks in dynamic languages like Python and JavaScript.... </td></tr></table>
 <table><tr><td>-</td><td><a href="https://www.vitim.us/javascript-is-getting-a-new-keyword-i-proposed-accessor/">Javascript is getting a new keyword I proposed (accessor)</a> <br> A story about how I proposed a name for a new Javascript keyword, and it was accepted.... </td></tr></table>
 <table><tr><td>-</td><td><a href="https://www.vitim.us/notion-jam/">Notion JAM</a> <br> Sync pages from Notion to GitHub to be used as a static website CMS (JAM)... </td></tr></table>
-<table><tr><td>-</td><td><a href="https://www.vitim.us/explainalizer/">explainalizer</a> <br> Visualizer for Postgres EXPLAIN ANALYZ. Flame chart style... </td></tr></table>
 <table><tr><td>-</td><td><a href="https://www.vitim.us/default-args/">default-args</a> <br> A simple library for providing defaults to an options argument. No dependencies, tiny amount of code.... </td></tr></table>
+<table><tr><td>-</td><td><a href="https://www.vitim.us/explainalizer/">explainalizer</a> <br> Visualizer for Postgres EXPLAIN ANALYZ. Flame chart style... </td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ----
