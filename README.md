@@ -21,7 +21,7 @@
   - <a href="https://stackoverflow.com/users/938822/vitim-us">
      <img src="https://stackexchange.com/users/flair/903303.png?theme=light" width="208" height="58" alt="profile for Vitim.us on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vitim.us on Stack Exchange, a network of free, community-driven Q&amp;A sites"><br>
     </a>  
-  - Reached the Top 1% rank on Stackoverflow (currently at Top 2%)
+  - Reached the Top 1% rank on Stackoverflow
   - Potentially helped 20.5 million developers (according to Stackoverflow stats) 
   - My most popular project currently is [Undiscord](https://github.com/victornpb/undiscord) with [![GitHub Stars](https://img.shields.io/github/stars/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/stargazers) and 
 [![GitHub Forks](https://img.shields.io/github/forks/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/network/members)
